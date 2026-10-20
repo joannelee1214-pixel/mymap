@@ -1,0 +1,69 @@
+ <style>
+      
+      @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+ 
+      h1 {
+        font-size: 18px;
+        font-family: "Work Sans";
+        font-weight: 700;
+        color: black;
+      }
+      
+      p {
+        font-size: 15px;
+        font-family: "Work Sans";
+        font-weight: 300;
+        color: black;
+      }
+
+      .artist {
+        font-size: 12px;
+        font-weight: 300px;
+        font-family: "Work Sans";
+      }
+      
+      .axis {
+        font-size: 14px;
+        font-family: "Work Sans";
+        font-weight: 500;
+        color: black;
+        background-color: #7dffe0;
+        padding: 2px
+      }
+
+      body {
+        min-height: 100vh;
+        background-color: white;
+        background-image: url(https://raw.githubusercontent.com/joannelee1214-pixel/images-for-the-guide/main/background.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+          
+        cursor: url(https://raw.githubusercontent.com/joannelee1214-pixel/images-for-the-guide/main/cursors.png), auto;
+      }
+      
+
+      a, a:visited {
+        cursor: url(https://raw.githubusercontent.com/joannelee1214-pixel/images-for-the-guide/main/cursors-link.png), pointer;
+          
+        color: black;
+        text-decoration: none;
+          
+      }
+      
+      a:hover {
+        color: #6ee6ca;
+      }
+      
+      .album img {
+        border: 1px solid black;
+        width: 140px;
+      }
+      
+      hr {
+        border-top: 1px solid black;
+      }
+      
+
+      
+    </style>   
